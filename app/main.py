@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
 
-from app.services.embedding_recommender import semantic_recommend
+from app.services.recommender import recommend_assessments
 
 
 app = FastAPI(
@@ -71,7 +71,7 @@ def chat(request: ChatRequest):
             "end_of_conversation": False
         }
 
-    recommendations = semantic_recommend(full_conversation)
+    recommendations = recommend_assessments(full_conversation)
 
     if recommendations:
 

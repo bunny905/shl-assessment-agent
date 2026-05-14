@@ -1,11 +1,5 @@
 fastapi
 uvicorn
-sentence-transformers
-scikit-learn
-numpy
-torch
-transformers
-huggingface-hub
 pydantic
 requests
 beautifulsoup4
