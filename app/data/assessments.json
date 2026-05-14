@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Java 8 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+        "test_type": "Technical",
+        "skills": [
+            "java",
+            "backend",
+            "object oriented programming",
+            "spring",
+            "software development"
+        ]
+    },
+    {
+        "name": "Core Java Entry Level",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level/",
+        "test_type": "Technical",
+        "skills": [
+            "java",
+            "coding",
+            "problem solving",
+            "backend"
+        ]
+    },
+    {
+        "name": "Python New",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+        "test_type": "Technical",
+        "skills": [
+            "python",
+            "automation",
+            "scripting",
+            "backend",
+            "api"
+        ]
+    },
+    {
+        "name": "SQL Server",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server/",
+        "test_type": "Technical",
+        "skills": [
+            "sql",
+            "database",
+            "query optimization",
+            "data analysis"
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript/",
+        "test_type": "Technical",
+        "skills": [
+            "javascript",
+            "frontend",
+            "web development",
+            "react",
+            "nodejs"
+        ]
+    },
+    {
+        "name": "OPQ32r",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+        "test_type": "Personality",
+        "skills": [
+            "personality",
+            "behavior",
+            "leadership",
+            "communication",
+            "teamwork"
+        ]
+    },
+    {
+        "name": "Verify Interactive G+",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-plus/",
+        "test_type": "Cognitive",
+        "skills": [
+            "logical reasoning",
+            "numerical ability",
+            "critical thinking",
+            "problem solving"
+        ]
+    },
+    {
+        "name": "Agile Software Development",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+        "test_type": "Technical",
+        "skills": [
+            "agile",
+            "scrum",
+            "software engineering",
+            "team collaboration"
+        ]
+    }
+]
